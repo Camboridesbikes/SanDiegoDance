@@ -25,11 +25,13 @@ const IndexPage = () => (
         <div style={{display: "flex", textAlign: "center", fontSize: "80%", alignItems: "center"}}>
           <div>Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
-          <div> Cost/<br />suggested donation </div>
+          <div>Location</div>
+          <div> Cost/<br />suggested donation </div>          
         </div>
         <div className='dtc' style={{display: "flex", textAlign: "center", fontSize: "80%", alignItems: "center"}}>
           <div>Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
+          <div>Location</div>
           <div> Cost/<br />suggested donation </div>
         </div>
       </th>
@@ -40,6 +42,7 @@ const IndexPage = () => (
         <div>
           <div>Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
+          <div>Location</div>
           <div> Cost/<br />suggested donation </div>
         </div>
       </th>
@@ -50,11 +53,13 @@ const IndexPage = () => (
         <div className='dtc' style={{display: "flex", textAlign: "center", fontSize: "80%", alignItems: "center"}}>
           <div>Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
+          <div>Location</div>
           <div> Cost/<br />suggested donation </div>
         </div>
         <div style={{display: "flex", textAlign: "center", fontSize: "80%", alignItems: "center"}}>
           <div>Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
+          <div>Location</div>
           <div> Cost/<br />suggested donation </div>
         </div>
       </th>
@@ -65,16 +70,19 @@ const IndexPage = () => (
         <div className='dtc'>
           <div >Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
+          <div>Location</div>
           <div> Cost/<br />suggested donation </div>
         </div>
         <div style={{display: "flex", textAlign: "center", fontSize: "80%", alignItems: "center"}}>
           <div>Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
+          <div>Location</div>
           <div> Cost/<br />suggested donation </div>
         </div>
         <div className='dtc' style={{display: "flex", textAlign: "center", fontSize: "80%", alignItems: "center"}}>
           <div>Dance Name<br />(how often if not weekly)<br />When</div>
           <div> Brief Description </div>
+          <div>Location</div>
           <div> Cost/<br />suggested donation </div>
         </div>
       </th>
